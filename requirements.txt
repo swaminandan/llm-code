@@ -4,3 +4,4 @@ transformers[sentencepiece]
 tensorflow
 tf-keras
 torch
+pillow
