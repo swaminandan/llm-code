@@ -5,7 +5,7 @@
 ### 1. Setup Environment
 ```bash
 # Clone this repository
-git clone https://github.com/swaminandan/llm_course.git
+git clone https://github.com/swaminandan/llm_code.git
 
 # Create virtual environment (Python)
 python -m venv .venv
