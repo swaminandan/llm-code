@@ -14,3 +14,9 @@ source .venv/bin/activate  # Linux/Mac
 
 # Install dependencies
 pip install --no-cache-dir -r requirements.txt
+
+# Clean installation within .venv
+source .venv/bin/activate
+pip freeze > installed.txt
+pip uninstall -y -r installed.txt
+rm installed.txt
