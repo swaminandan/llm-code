@@ -1,4 +1,6 @@
 datasets
 evaluate
 transformers[sentencepiece]
-pytorch
+tensorflow
+tf-keras
+torch
